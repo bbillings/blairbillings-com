@@ -44,3 +44,7 @@ body {
 .top-header{
 	background-color:#f5f5f5;
 }
+
+.top-header-text{
+	margin-left:30px;
+}

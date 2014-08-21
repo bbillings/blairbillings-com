@@ -20,7 +20,7 @@
 				</div>
 				<div class="col-md-9">
 					<h1>Blair Billings</h1>
-					<p class="text-muted small">Application Developer.<br>Production Specialis.<br>Sports Enthusiast.</p>
+					<p class="text-muted small top-header-text">Application Developer.<br>Production Specialis.<br>Sports Enthusiast.</p>
 					<br>
 				</div>
 			</div>	
