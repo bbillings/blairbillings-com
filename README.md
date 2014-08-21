@@ -1,4 +1,4 @@
-testgoogleapps
+Personal Website
 ==============
 
-just a test for google apps
+blairbillings.com website
