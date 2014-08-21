@@ -9,7 +9,7 @@ handlers:
   script: home.php
 
 - url: /index\.html
-  script: home.php
+  script:
 
 - url: /stylesheets
   static_dir: stylesheets
