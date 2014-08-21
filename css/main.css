@@ -4,6 +4,11 @@ html {
   position: relative;
   min-height: 100%;
 }
+
+a{
+	text-decoration:none;
+}
+
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
