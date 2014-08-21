@@ -6,10 +6,10 @@ threadsafe: true
 
 handlers:
 - url: /
-  script: home.php
+  script: index.php
 
-- url: /index\.html
-  script:
+- url: /index
+  script: index.php
 
 - url: /stylesheets
   static_dir: stylesheets
