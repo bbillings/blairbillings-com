@@ -1,7 +1,8 @@
-application: myapp
+application: blairbillings-com
 version: 1
 runtime: php
 api_version: 1
+threadsafe: true
 
 handlers:
 - url: /
