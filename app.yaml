@@ -5,22 +5,5 @@ api_version: 1
 threadsafe: true
 
 handlers:
-- url: /
+- url: .*
   script: index.php
-
-- url: /index
-  script: index.php
-
-- url: /stylesheets
-  static_dir: stylesheets
-
-- url: /(.*\.(gif|png|jpg))$
-  static_files: static/\1
-  upload: static/.*\.(gif|png|jpg)$
-
-- url: /admin/.*
-  script: admin.php
-  login: admin
-
-- url: /.*
-  script: not_found.php
